@@ -20,6 +20,9 @@ What things you need to install the software
 ## Running 
 ```
 python detecDrowsiness.py
+![f4e7bb5b-50fc-4986-9690-52e1b103beb0](https://user-images.githubusercontent.com/102234389/236640079-cfb25254-98f0-4cd3-be26-ddc6bc4f8464.jpg)
+![WhatsApp Image 2023-05-05 at 9 46 31 PM](https://user-images.githubusercontent.com/102234389/236640101-26fba54b-1d29-4f75-8b1f-4352cfd9f7d8.jpeg)
+
 ```
 ## Author
 
